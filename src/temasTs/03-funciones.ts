@@ -15,7 +15,7 @@ function multiplicar(n1:number,otronumero:number, base:number=3):number{
     return tem;
 }
 
-console.log(multiplicar(3,5));
+console.log(multiplicar(6,5));
 
 interface Mascota{
     nombre:string;
