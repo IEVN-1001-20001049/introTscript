@@ -1,5 +1,5 @@
 import './style.css'
-import './temasTs/04-destructuracion-objetos-arre.ts'
+import './temasTs/09-genericos.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
